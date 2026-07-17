@@ -2,7 +2,7 @@
 
 Real-time dashboard for Aquacentrum Pardubice occupancy and water temperatures.
 
-Scrapes [aquapce.cz](https://www.aquapce.cz) every 2 minutes (05:50–21:10 CET), stores data in SQLite, serves via FastAPI + Chart.js.
+Scrapes [aquapce.cz](https://www.aquapce.cz) every 2 minutes (05:50–21:10 CET), stores data in SQLite, serves via FastAPI + Chart.js. 
 
 ## Quick start
 
